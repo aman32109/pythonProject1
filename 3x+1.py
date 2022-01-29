@@ -1,4 +1,3 @@
-#dumbass listen carefulno=int(input("enter odd number"))
 no=int(input("enter odd number"))
 if no%2==1:
     while no!=1:
